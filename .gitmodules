@@ -1,3 +1,6 @@
 [submodule "7-sorter-utility"]
 	path = 7-sorter-utility
 	url = git@github.com:spbu-coding-2024/7-sorter-utility.git
+[submodule "7-pepeclub"]
+	path = 7-pepeclub
+	url = git@github.com:spbu-coding-2024/7-pepeclub.git
