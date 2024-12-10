@@ -28,3 +28,6 @@
 [submodule "7-NIcolaiKl"]
 	path = 7-NIcolaiKl
 	url = git@github.com:spbu-coding-2024/7-NIcolaiKl.git
+[submodule "7-pechenb"]
+	path = 7-pechenb
+	url = git@github.com:spbu-coding-2024/7-pechenb.git
