@@ -73,3 +73,6 @@
 [submodule "7-lospollosenjoyer"]
 	path = 7-lospollosenjoyer
 	url = git@github.com:spbu-coding-2024/7-lospollosenjoyer.git
+[submodule "7-VladimirKhmelev"]
+	path = 7-VladimirKhmelev
+	url = git@github.com:spbu-coding-2024/7-VladimirKhmelev.git
