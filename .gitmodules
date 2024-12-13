@@ -94,3 +94,6 @@
 [submodule "7-g4rry1"]
 	path = 7-g4rry1
 	url = git@github.com:spbu-coding-2024/7-g4rry1.git
+[submodule "7-K1mer0"]
+	path = 7-K1mer0
+	url = git@github.com:spbu-coding-2024/7-K1mer0.git
