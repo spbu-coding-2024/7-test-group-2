@@ -91,3 +91,6 @@
 [submodule "7-mariagrinn"]
 	path = 7-mariagrinn
 	url = git@github.com:spbu-coding-2024/7-mariagrinn.git
+[submodule "7-g4rry1"]
+	path = 7-g4rry1
+	url = git@github.com:spbu-coding-2024/7-g4rry1.git
