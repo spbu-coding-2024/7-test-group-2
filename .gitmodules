@@ -109,3 +109,6 @@
 [submodule "7-Galay-Nastya"]
 	path = 7-Galay-Nastya
 	url = git@github.com:spbu-coding-2024/7-Galay-Nastya.git
+[submodule "7-Nasty12121"]
+	path = 7-Nasty12121
+	url = git@github.com:spbu-coding-2024/7-Nasty12121.git
